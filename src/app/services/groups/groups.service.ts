@@ -114,7 +114,7 @@ export class GroupsService {
         const adeGroup = this.adeGroups.find((g) =>
           g.parentGroups.includes(group)
         );
-        if (adeGroup && adeGroup.ical) {
+        if (adeGroup?.ical) {
           url = adeGroup.ical;
           break;
         }

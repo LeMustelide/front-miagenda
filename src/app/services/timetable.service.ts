@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class TimetableService {
-  private apiUrl = 'https://api.miagenda.fr/fetch_schedule';
+  private apiUrl = 'http://localhost/fetch_schedule';
 
   constructor(private http: HttpClient) { }
 

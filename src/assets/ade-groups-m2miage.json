@@ -1,0 +1,195 @@
+[
+    {
+        "parentGroups": [
+            "default",
+            "Alternant - SIR"
+        ],
+        "adeNames": [
+            "M2 MIAGE - SIR - APP"
+        ],
+        "unique": true
+    },
+    {
+        "parentGroups": [
+            "default"
+         ],
+        "adeNames": [
+            "",
+            "CM",
+            "M2 MIAGE SIR/SIMSAB (+alternants)"
+        ]
+    },
+    {
+        "parentGroups": [
+            "default",
+            "Alternant - SIR"
+        ],
+        "adeNames": [
+            "M2 MIAGE - SIR - APP",
+            "M2 MIAGE SIR - APP",
+            "M2 MIAGE SIR ALT"
+        ],
+        "unique": true,
+        "ical": "https://aderead.univ-orleans.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=ce836be7347148789e4c490c850a15c136205b94d7d29e90e2f5dfbb88900333982bf381b1007d5c58e581d9e50ed9f0b14e65fcf41a2dc1a44708ea00948f800514811c45d4fe277f359f28b57854fa,1"
+    },
+    {
+        "parentGroups" : [
+            "TD1",
+            "Alternant - SIR"
+        ],
+        "adeNames": [
+            "TD1",
+            "TD SIR"
+        ]
+    },
+    {
+        "parentGroups": [
+            "TD2",
+            "Alternant - SIR"
+        ],
+        "adeNames": [
+            "TD2",
+            "TD SIR"
+        ]
+    },
+    {
+        "parentGroups": [
+            "TD3",
+            "Alternant - SIR"
+        ],
+        "adeNames": [
+            "TD3",
+            "TD SIR"
+        ]
+    },
+    {
+        "parentGroups": [
+            "Alternant - SIMSAB"
+        ],
+        "adeNames": [
+            "M2 MIAGE - SIMSAB - APP",
+            "M2 MIAGE - SIMSAB",
+            "M2 MIAGE SIMSAB ALT",
+            "HM",
+            "TD"
+        ],
+        "ical": "https://aderead.univ-orleans.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=0591479055724d51ceb7e42508f3bf444592592d3b282f749c9a606b710f264f6250ba3fea2e12caebbcd166cfe88476f6893987a472171c27978e76da251b877c79900682576cf2be48a3169e635e57166c54e36382c1aa3eb0ff5cb8980cdb,1",
+        "unique": true
+    },
+    {
+        "parentGroups" : [
+            "TD1",
+            "Alternant - SIMSAB"
+        ],
+        "adeNames": [
+            "TD1",
+            "TD SIMSAB"
+        ]
+    },
+    {
+        "parentGroups": [
+            "TD2",
+            "Alternant - SIMSAB"
+        ],
+        "adeNames": [
+            "TD2",
+            "TD SIMSAB"
+        ]
+    },
+    {
+        "parentGroups": [
+            "TD3",
+            "Alternant - SIMSAB"
+        ],
+        "adeNames": [
+            "TD3",
+            "TD SIMSAB"
+        ]
+    },
+    {
+        "parentGroups": [
+            "Formation initiale - SIMSAB"
+        ],
+        "adeNames": [
+            "M2 MIAGE - SIMSAB - APP",
+            "M2 MIAGE - SIMSAB",
+            "M2 MIAGE SIMSAB ALT",
+            "HM",
+            "TD"
+        ],
+        "ical": "https://aderead.univ-orleans.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=b00cd51dcbc489c026a1edc422eed3964592592d3b282f749c9a606b710f264f6250ba3fea2e12caebbcd166cfe88476f6893987a472171c27978e76da251b877c79900682576cf2be48a3169e635e57166c54e36382c1aa3eb0ff5cb8980cdb,1",
+        "unique": true
+    },
+    {
+        "parentGroups" : [
+            "TD1",
+            "Formation initiale - SIMSAB"
+        ],
+        "adeNames": [
+            "TD1",
+            "TD SIMSAB"
+        ]
+    },
+    {
+        "parentGroups": [
+            "TD2",
+            "Formation initiale - SIMSAB"
+        ],
+        "adeNames": [
+            "TD2",
+            "TD SIMSAB"
+        ]
+    },
+    {
+        "parentGroups": [
+            "TD3",
+            "Formation initiale - SIMSAB"
+        ],
+        "adeNames": [
+            "TD3",
+            "TD SIMSAB"
+        ]
+    },
+    {
+        "parentGroups": [
+            "Formation initiale - SIR"
+        ],
+        "adeNames": [
+            "M2 MIAGE - SIR - APP",
+            "M2 MIAGE SIR - APP",
+            "M2 MIAGE SIR ALT"
+        ],
+        "ical": "https://aderead.univ-orleans.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?data=1a3f182964b591af445a582014643d1936205b94d7d29e90e2f5dfbb88900333982bf381b1007d5c58e581d9e50ed9f0d065dbb747027546bcaff94d6916e86f9fcadf4b2817c37e15ef5e2aeab859d1,1",
+        "unique": true
+    },
+    {
+        "parentGroups" : [
+            "TD1",
+            "Formation initial - SIR"
+        ],
+        "adeNames": [
+            "TD1",
+            "TD SIR"
+        ]
+    },
+    {
+        "parentGroups": [
+            "TD2",
+            "Formation initial - SIR"
+        ],
+        "adeNames": [
+            "TD2",
+            "TD SIR"
+        ]
+    },
+    {
+        "parentGroups": [
+            "TD3",
+            "Formation initial - SIR"
+        ],
+        "adeNames": [
+            "TD3",
+            "TD SIR"
+        ]
+    }
+]

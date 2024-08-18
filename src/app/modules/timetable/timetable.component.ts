@@ -55,8 +55,8 @@ export class TimetableComponent implements OnInit, AfterViewInit {
   ) {}
 
   ngOnInit(): void {
-    this.selectedClass = 'M1 MIAGE';
-    this.groupsService.selectedClass = 'M1 MIAGE';
+    this.selectedClass = 'M2 MIAGE';
+    this.groupsService.selectedClass = 'M2 MIAGE';
     this.classesNames = this.groupsService.getClasses().map((c) => {
       return c.name;
     });

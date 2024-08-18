@@ -1,5 +1,18 @@
 [
   {
+    "name": "M2 MIAGE",
+    "groupTypes": [
+      { "name": "TD", "groups": ["TD1", "TD2", "TD3"], "defaultGroup": "TD1" },
+      {
+        "name": "Formations",
+        "groups": ["Alternant - SIR", "Alternant - SIMSAB", "Formation initiale - SIR", "Formation initiale - SIMSAB"],
+        "defaultGroup": "Alternant - SIMSAB",
+        "required": true
+      }
+    ],
+    "adeConfig": "ade-groups-m2miage.json"
+  },
+  {
     "name": "M1 MIAGE",
     "groupTypes": [
       { "name": "TD", "groups": ["TD1", "TD2"], "defaultGroup": "TD1" },
